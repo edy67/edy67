@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola, nakamas! 👋
 
-<!--
-**edy67/edy67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics student at UMSA · Bolivia
 
-Here are some ideas to get you started:
+Interested in technology, software development and information security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- Currently studying Informatics.
+- Exploring different areas of computer science.
+- Learning through academic and personal projects.
+
+### Currently exploring
+
+`Python` · `FastAPI` · `PostgreSQL` · `Linux` · `Git` · `Flutter`
+
+---
+
+> "I'll become the Pirate King!"
+>
+> — Monkey D. Luffy

@@ -1,4 +1,4 @@
-# ¡Hola, nakamas! 👋
+# ¡Hello, nakamas! 👋
 
 Informatics student at UMSA · Bolivia
 
